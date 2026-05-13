@@ -16,13 +16,13 @@ UI of jump:
 They have a total of four abilities: three in normal circumstances, and the fourth when they have the tooth.  
 When a player is holding the tooth, the other players can strike them with a melee attack to force them to drop it.  
 
-<img width="157" height="145" alt="image" src="https://github.com/user-attachments/assets/7b7cf7e9-0289-48aa-b988-00031a4213c5" />  <br>
+<img width="157" height="145" alt="image" src="https://github.com/user-attachments/assets/7b7cf7e9-0289-48aa-b988-00031a4213c5" />  
 The 3 Abilities when you don't have teeth:  
 * Slow: this is a projectile which, when it hits an object, a player or reaches the end of its trajectory, explodes and slows down players within the blast radius  
-* Explosion: identical to Slowdown, but without the slowing effect, the projectile propels both the player and yourself  <br>
-* Swap: if the projectile hits an object, the player is teleported to the projectile, if it hits another player, you swap places with them  <br>
-Abilities when you have teeth:  <br>
-* Dash: a dash that propels the player in the direction they are heading  <br>
+* Explosion: identical to Slowdown, but without the slowing effect, the projectile propels both the player and yourself  
+* Swap: if the projectile hits an object, the player is teleported to the projectile, if it hits another player, you swap places with them  
+Abilities when you have teeth:  
+* Dash: a dash that propels the player in the direction they are heading  
   
 When the player has the tooth, their stats change: they move faster, can only use the sprint, and can only jump three times  
 
