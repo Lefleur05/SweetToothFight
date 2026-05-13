@@ -26,6 +26,10 @@ Abilities when you have teeth:
   
 When the player has the tooth, their stats change: they move faster, can only use the sprint, and can only jump three times  
 
+## For play
+You can download a version in [Release](https://github.com/Lefleur05/SweetToothFight/releases/tag/Build).  
+Unzip the folder and double-click on the .exe file and enjoy
+
 ## Controls
 The game is designed for an controller  
 A to jump  
