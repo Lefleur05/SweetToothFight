@@ -1,4 +1,4 @@
-# Sweet Thooth Fight
+# Sweet Tooth Fight
 __A Local Game Jam Project, with the theme “Enchantment” (“Féérie” in French).__  
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/23763f81-6e0e-45ed-92ca-44a5a539cc50" />
 
